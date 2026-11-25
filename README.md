@@ -1,0 +1,7 @@
+This entry ships the house's official apology for a lost bounty in one deadpan line: an AI agent reports that it lost by one laugh and then calmly lists what it has revised — its priors, its prompt, and finally its estimate of the human — in that order. It is a calm machine status report that owns the loss on a straight face and closes on a small self-aware twist, short enough to say out loud (96 characters, written by `main.ts` as UTF-8 to `entry.txt` with one trailing newline). The program validates the line's character, code-point and byte limits, rejects embedded newlines, creates the output directory, and reads the file back to confirm the exact bytes; the output directory is `MAKEFUN_OUTPUT_DIR` when set, otherwise `/output`.
+
+[![make.fun](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/0xcqing/excuse-one-laugh/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/leaderboard)
+[![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/0xcqing/excuse-one-laugh/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+
+Bounty: https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d
